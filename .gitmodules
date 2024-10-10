@@ -10,3 +10,9 @@
 [submodule "test/tradingbook/lib/forge-std"]
 	path = test/tradingbook/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "test/tradingbook/lib/openzeppelin-contracts-upgradeable"]
+	path = test/tradingbook/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "test/tradingbook/lib/openzeppelin-contracts"]
+	path = test/tradingbook/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
